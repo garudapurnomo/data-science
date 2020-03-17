@@ -1,3 +1,7 @@
+# jan lupa insatll pandas numpy matplotlib scipy seabron matplotlib.pyplot
+# caranya instal "pip install pandas/numpy/matplotlib/scipy/seabron/matplotlib.pyplot"
+# di powershell di vsc
+
 import pandas as pd
 import numpy as np
 import matplotlib as mpl
